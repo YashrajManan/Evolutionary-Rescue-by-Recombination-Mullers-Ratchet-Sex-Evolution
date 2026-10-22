@@ -26,9 +26,7 @@ it, and under what conditions does that rescue effect weaken.
 
 ## 3. Data fetch
 
-None — a deliberate, disclosed exception to this portfolio's usual API-first-data convention, the same
-category as #23B/#23C/#23D. The finite-population genetic model and its deterministic/stochastic comparison
-are the object of study.
+--NOT APPLICABLE--
 
 ## 4. Data describe
 
