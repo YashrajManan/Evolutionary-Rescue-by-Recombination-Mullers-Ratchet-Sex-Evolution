@@ -26,9 +26,11 @@ it, and under what conditions does that rescue effect weaken.
 
 ## 3. Data fetch
 
-None — a deliberate, disclosed exception to this portfolio's usual API-first-data convention, the same
-category as #23B/#23C/#23D. The finite-population genetic model and its deterministic/stochastic comparison
-are the object of study.
+None required: this project tests a precise claim about how genetic drift and recombination interact in a
+finite population, measured against an exact deterministic equilibrium derived independently — a controlled
+comparison that needs a fully known, simulated ground truth (true mutation rate, true population size, true
+presence or absence of recombination) rather than a real dataset where none of those are directly
+observable.
 
 ## 4. Data describe
 
